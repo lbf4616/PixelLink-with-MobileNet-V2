@@ -7,5 +7,5 @@ The code was modified based on the original [PixelLink](https://github.com/ZJULe
  ---- | ----- | ------  
  73.9%  | 74.26% | 74.08% 
  
- Pretrained model finetune on imageNet
+ Pretrained model finetune on imageNet  
  [Google Drive](https://drive.google.com/open?id=1f_PKC8_8NPbxCDALngyuXiobyIh18LXq)
